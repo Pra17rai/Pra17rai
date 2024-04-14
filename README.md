@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **UX/UI**
 
 - 📫 How to reach me **pra17rai@gmail.com**
 
